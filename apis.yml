@@ -61,6 +61,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/nordstrom/
+  name: Nordstrom
+  x-relationship: acquired
+  x-evidence: "It was acquired by Nordstrom in 2011 and operated as a standalone flash-sale brand before being folded into Nordstrom Rack; www."
 - type: Website
   url: http://www.hautelook.com/
 x-enrichment:
